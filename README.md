@@ -44,7 +44,7 @@ CodeAlpha_Calculator/
 3. No installation or dependencies needed
 
 ## 🔗 Live Demo
-https://sundas348.github.io/Scientific_Calculator
+https://sundas348.github.io/Scientific-Calculator/
 
 ## Author
 Sundas
